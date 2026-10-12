@@ -9,5 +9,6 @@ Tutorials for cell structure analysis, differential expression, and regulatory n
 ../Tutorials-single/t_scdeg
 ../Tutorials-single/t_scenic
 ../Tutorials-single/t_scdrug
+../Tutorials-single/t_scissor
 ../Tutorials-single/t_simba
 ```
