@@ -59,7 +59,7 @@ This page mirrors the `Single` section in `mkdocs.yml`.
 - [Differential expression analysis [Meta Cell]](t_scdeg.ipynb)
 - [Gene Regulatory Network Analysis with SCENIC](t_scenic.ipynb)
 - [Drug response predict with scDrug](t_scdrug.ipynb)
-- [Scissor phenotype-associated cells: Gaussian, Binomial and Cox](t_scissor.ipynb)
+- [Scissor: phenotype-associated cells from bulk cohorts (LUAD survival and TP53)](t_scissor.ipynb)
 - [Batch Correction with SIMBA](t_simba.ipynb)
 
 ## Copy-Number Variation
